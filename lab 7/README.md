@@ -1,0 +1,1 @@
+Lab 7 .ipynb file B221930053
